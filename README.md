@@ -11,7 +11,7 @@
 
 - 📫 How to reach me [**alraghad188@gmail.com**](mailto:alraghad188@gmail.com)
 
-- 📄 Know about my experiences [My Resume](https://app.enhancv.com/share/efe39eaf/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1JejqiiN-VXA5xyXou7wPrnPZez6Lt8bP/view?usp=sharing)
 
 - ⚡ Fun fact **I Love Cockatiel bird and Red-eared slider**
 
