@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raghad AlJabr</h1>
-<h3 align="center">A software developer from Saudi Arabia</h3>
+<h3 align="center">A Full-stack developer from Saudi Arabia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghd-do&label=Profile%20views&color=0e75b6&style=flat-square" alt="raghd-do" /> </p>
 
