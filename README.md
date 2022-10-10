@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning all about **Software Engineer**
 
-- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/raghd-do)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://ragdo.webflow.io/)
 
 - 💬 Ask me about **Python, Django, MERN, and how to solve Algorithms**
 
 - 📫 How to reach me [**alraghad188@gmail.com**](mailto:alraghad188@gmail.com)
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1jcwq3sXs3M89qIfap1tBcGQuR6laHhqF/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1Odgooca5n9FWWe651DsmV9EwYvLIGoaR/view?usp=sharing)
 
 - ⚡ Fun fact **I Love Cockatiel bird and Red-eared slider**
 
